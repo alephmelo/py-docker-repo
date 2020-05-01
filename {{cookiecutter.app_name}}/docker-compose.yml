@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  {{cookiecutter.compose_service_name}}:
+    build: .
+    command: echo "Hello, world!"
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"

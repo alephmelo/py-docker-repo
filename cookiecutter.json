@@ -1,0 +1,11 @@
+{
+    "app_name": "helloworld",
+    "app_desc": "Lorem ipsum etc et.",
+    "file_name": "main",
+    "greeting_recipient": "Lorem",
+    "python_version": "3.7",
+    "compose_service_name": "core",
+    "website": "https://example.com",
+    "author": "3RP - Three Random People",
+    "author_email": "example@3rp.com"
+}
