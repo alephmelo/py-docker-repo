@@ -16,6 +16,7 @@ $ pip install --user cookiecutter
 ```
 More information about it at https://cookiecutter.readthedocs.io/en/
 
+### Generate template
 ```bash
 $ cookiecutter https://github.com/alephmelo/py-docker-repo.git
 ```
