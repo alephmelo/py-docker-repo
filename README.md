@@ -12,6 +12,11 @@ This cookiecutter is a fast way to start developing with a pre-built file struct
 Requires `cookiecutter`.
 
 ```bash
+$ pip install --user cookiecutter
+```
+More information about it at https://cookiecutter.readthedocs.io/en/
+
+```bash
 $ cookiecutter https://github.com/alephmelo/py-docker-repo.git
 ```
 
